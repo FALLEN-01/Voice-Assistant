@@ -24,7 +24,7 @@ Before running the program, ensure that the following modules are installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   gh repo clone FALLEN-01/Voice-Assistant
    ```
 
 2. Install required modules:
