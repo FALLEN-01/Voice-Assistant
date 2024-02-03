@@ -121,3 +121,7 @@ If you feel hello isn't the word for you can change it in the code :
 if 'hello' in query:
 ```
 Replace the "Hello" with the word you like 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
